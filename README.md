@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @r3daaa
-- 👀 I’m interested in low level language
+- 👀 I’m interested in low level language and cyber security
 - 🌱 I’m currently learning C/C++
 - 📫 How to reach me r3da@protonmail.com
 
