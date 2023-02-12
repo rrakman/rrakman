@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @r3daaa
+- 👋 Hi, I’m @rrakman
 - 👀 I’m interested in Programming and cyber security
 - 🌱 I’m currently learning C and Python
 - 📫 How to reach me r3da@protonmail.com
