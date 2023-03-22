@@ -13,6 +13,4 @@ You can click the Preview link to take a look at your changes.
   
  <img src="https://tryhackme-badges.s3.amazonaws.com/r3da.png" alt="TryHackMe">
 
-  
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=rrakman&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rrakman&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
