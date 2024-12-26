@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 
   
  <img src="https://tryhackme-badges.s3.amazonaws.com/r3da.png" alt="TryHackMe">
-[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/rrakman)](https://github.com/oakoudad/badge42)
+[![rrakman's 42 stats](https://badge.mediaplus.ma/darkblue/rrakman)](https://github.com/oakoudad/badge42)
