@@ -6,7 +6,5 @@
 
 
   
- <img src="https://tryhackme-badges.s3.amazonaws.com/r3da.png" alt="TryHackMe">
-<figure>
-  <img src="./rrakman.svg" alt="Darkblue" title="Darkblue"/>
-</figure>
+<img src="https://tryhackme-badges.s3.amazonaws.com/r3da.png" alt="TryHackMe">
+<img src="rrakman.svg" alt="MyBadge" title="MyBadge"/>
