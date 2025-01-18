@@ -8,5 +8,5 @@
   
 <img src="https://tryhackme-badges.s3.amazonaws.com/r3da.png" alt="TryHackMe">
 <figure>
-  <img src="rrakman.svg" alt="MyBadge" title="MyBadge"/>
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/rrakman" alt="rrakman's 42 stats" /></a>
 </figure>
