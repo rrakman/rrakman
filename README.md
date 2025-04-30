@@ -6,7 +6,7 @@
 
 
   
-<img src="https://tryhackme-badges.s3.amazonaws.com/r3da.png" alt="thmbadge" />
+<img src="[https://tryhackme-badges.s3.amazonaws.com/r3da.png](https://tryhackme-badges.s3.amazonaws.com/r3da.png)" alt="thmbadge" />
 
 <figure>
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/rrakman" alt="rrakman's 42 stats" /></a>
